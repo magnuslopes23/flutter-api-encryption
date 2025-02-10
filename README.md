@@ -136,6 +136,11 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ---
 
+---
+## 📖 Read More
+Check out the full article on Medium: [Secure Your Flutter API Calls](https://medium.com/@magnuslopes23/secure-your-flutter-api-calls-encrypt-decrypt-data-like-a-pro-e2f479276c22) 🚀
+---
+
 ## 🌟 **Show Your Support**
 If this project helps you, **please give it a ⭐ on GitHub** and share it with your fellow developers! 🚀🔥
 
